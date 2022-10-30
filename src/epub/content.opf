@@ -33,14 +33,15 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young woman in Roaring Twenties London finds herself at the center of a mystery of love and murder.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Published in the United Kingdom in 1927, &lt;i&gt;The Story of Ivy&lt;/i&gt; is a melodramatic murder mystery centered on a young woman, Ivy Lexton, who is caught up in the lifestyle of fashionable London during the Roaring Twenties. Having run through her husband’s inherited fortune only after a few years, Ivy chances upon a millionaire, whom she quickly initially is able to charm. Yet he seemingly refuses her further advances. Meanwhile, Ivy also must untangle herself from her devoted lover, a poor but handsome Doctor.&lt;/p&gt;
+			&lt;p&gt;Considered by &lt;i&gt;The Spectator&lt;/i&gt; to be one of &lt;a href="https://standardebooks.org/ebooks/marie-belloc-lowndes"&gt;Marie Belloc Lowndes&lt;/a&gt; best stories, &lt;i&gt;The Story of Ivy&lt;/i&gt; was also adapted to the screen as &lt;i&gt;Ivy&lt;/i&gt; in 1947, with Joan Fontaine in the lead role. Lowndes chronicles the significant changes in the culture of post World War I Britain along with the sensationalism of a murder mystery.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20130721</dc:source>
 		<dc:source>https://archive.org/details/novelsofmysteryl00lown</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">"crime passionnel" is in MW as a 'French Noun phrase' so I kept the italics on it.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_Ivy</meta>
