@@ -48,7 +48,7 @@ footer{
 	font-style: normal;
 }
 
-#chapter-11 blockquote b,
-#chapter-15 blockquote b{
+#chapter-11 blockquote,
+#chapter-15 blockquote{
 	text-transform: uppercase;
 }
