@@ -52,3 +52,7 @@ footer{
 #chapter-15 blockquote{
 	text-transform: uppercase;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
